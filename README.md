@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Dante
+## Hi, I’m Dante👋
+
 - 👀 I’m interested in Java and cloud computing
 
 ## CERTIFICATES
