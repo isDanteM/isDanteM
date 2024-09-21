@@ -3,13 +3,12 @@
 
 ## CERTIFICATES
 
-  <hr/>
-  <img src="assets/az_f.png" alt="Mi Imagen" width="200"> <img src="assets/az_f.png" alt="Mi Imagen" width="200"> <img src="assets/az_f.png" alt="Mi Imagen" width="200">
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/az_f.png" alt="Mi Imagen" width="200">
+  <img src="assets/az_f.png" alt="Mi Imagen" width="200">
+  <img src="assets/az_f.png" alt="Mi Imagen" width="200">
+</div>
 
 ## SOCIAL MEDIA
 
-  <hr/>
-
 ## PROJECTS
-
-  <hr/>
